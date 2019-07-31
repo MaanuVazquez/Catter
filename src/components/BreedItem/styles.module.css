@@ -1,0 +1,13 @@
+.media {
+  text-align: center;
+}
+
+.media > img {
+  object-fit: contain;
+  height: 300px;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}

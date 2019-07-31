@@ -1,0 +1,13 @@
+.paper {
+  padding: 20px;
+}
+
+.breedName {
+  display: inline-block !important;
+}
+
+.breedImage {
+  display: inline-block !important;
+  width: 80px !important;
+  height: 80px !important;
+}
